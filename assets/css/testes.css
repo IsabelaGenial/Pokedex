@@ -1,0 +1,296 @@
+*{
+    font-family: "VT323", sans-serif;
+    box-sizing: border-box;
+}
+
+.content 
+{ 
+    padding: 1rem;
+   
+}
+
+ol.list
+{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+ol.list ligrass
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color: #8cd26a;
+    color: white;
+    border-radius: .5rem;
+}
+
+ol.list lifire
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color: #ff603f;
+    color: white;
+    border-radius: .5rem;
+}
+
+ol.list liwater
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color:#52a8fa;
+    color: white;
+    border-radius: .5rem;
+}
+
+ol.list libug
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color: #b7c43f;
+    color: white;
+    border-radius: .5rem;
+}
+
+ol.list linormal
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color: #b7b6a4;
+    color: white;
+    border-radius: .5rem;
+}
+
+ol.list lipoison
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color: #b76ea4;
+    color: white;
+    border-radius: .5rem;
+}
+
+ol.list lielectric
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color: #ffd34d;
+    color: white;
+    border-radius: .5rem;
+}
+
+ol.list liground
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color: #e2c46a;
+    color: white;
+    border-radius: .5rem;
+}
+
+ol.list lifairy
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color: #f1a8ec;
+    color: white;
+    border-radius: .5rem;
+}
+
+ol.list lipsychic
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color: #ff6ea4;
+    color: white;
+    border-radius: .5rem;
+}
+
+ol.list lifighting
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color: #c56e5c;
+    color: white;
+    border-radius: .5rem;
+}
+
+ol.list lirock
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color: #c5b678;
+    color: white;
+    border-radius: .5rem;
+}
+
+ol.list lighost
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color: #7d7cc0;
+    color: white;
+    border-radius: .5rem;
+}
+
+ol.list liice
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color: #7dd3fa;
+    color: white;
+    border-radius: .5rem;
+}
+
+ol.list lidragon
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color: #8c7cec;
+    color: white;
+    border-radius: .5rem;
+}
+
+ol.list liflying
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color: #9aa8fa;
+    color: white;
+    border-radius: .5rem;
+}
+
+ol.list lidark
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color: #8c6e5c;
+    color: white;
+    border-radius: .5rem;
+}
+
+ol.list listeel
+{
+    display: flex;
+    margin: .5rem;
+    padding: 1rem 1rem;
+    background-color: #b7b6c0;
+    color: white;
+    border-radius: .5rem;
+}
+
+/*imagens */
+
+
+
+ol.list ligrass img
+{
+    max-width: 85%;
+    height: 80px ;
+}
+ol.list lifire img
+{
+    max-width: 85%;
+    height: 80px;
+}
+ol.list liwater img
+{
+    max-width: 85%;
+    height: 80px;
+}
+ol.list libug  img
+{
+    max-width: 85%;
+    height: 80px;
+}
+ol.list linormal  img
+{
+    max-width: 85%;
+    height: 80px;
+}
+ol.list lipoison  img
+{
+    max-width: 85%;
+    height: 80px;
+}
+ol.list liground img
+{
+    max-width: 85%;
+    height: 80px;
+}
+ol.list lifairy img
+{
+    max-width: 85%;
+    height: 80px;
+}
+ol.list lidragon img
+{
+    max-width: 85%;
+    height: 80px;
+}
+ol.list lipsychic img
+{
+    max-width: 85%;
+    height: 80px;
+}
+ol.list lifighting img
+{
+    max-width: 85%;
+    height: 80px;
+}
+ol.list lirock img
+{
+    max-width: 85%;
+    height: 80px;
+}
+ol.list lighost img
+{
+    max-width: 85%;
+    height: 80px;
+}
+ol.list liice img
+{
+    max-width: 85%;
+    height: 80px;
+}
+ol.list liflying img
+{
+    max-width: 85%;
+    height: 80px;
+}
+ol.list lidark img
+{
+    max-width: 85%;
+    height: 80px;
+}
+
+ol.list listeel img
+{
+    max-width: 85%;
+    height: 80px;
+}
+
+ol.list lielectric img
+{
+    max-width: 85%;
+    height: 80px;
+}
