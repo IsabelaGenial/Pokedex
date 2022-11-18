@@ -9,7 +9,7 @@
    
 }
 
-ol.list
+.Pokemons
 {
     list-style: none;
     padding: 0;

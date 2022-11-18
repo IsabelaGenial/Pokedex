@@ -1,0 +1,176 @@
+ <ligrass>
+                    Ivysaur
+                    <img src="https://25.media.tumblr.com/7f993e12df62b69d4f1c612d3a8d9b06/tumblr_mf4uovfSz61qmxcsxo1_500.gif" alt="Ivysaur">
+                </ligrass>
+                <ligrass>
+                    Venusaur
+                    <img src="https://i.gifer.com/4o45.gif" alt="Venusaur">
+                </ligrass>
+                <lifire>
+                    Charmander
+                    <img src="https://thumbs.gfycat.com/RespectfulHonestAxolotl-max-1mb.gif" alt="Charmander">
+                </lifire>
+                <lifire>
+                    Charmeleon
+                    <img src="https://66.media.tumblr.com/tumblr_ma4fpfD6Tu1rfjowdo1_500.gif" alt="Charmeleon">
+                </lifire>
+                <lifire> 
+                    Charizard
+                    <img src="https://66.media.tumblr.com/tumblr_ma4fsg8aDZ1rfjowdo1_500.gif" alt="charizard">
+                </lifire>
+                <liwater>
+                    Squirtle
+                    <img src="https://thumbs.gfycat.com/JampackedMeekHuemul-max-1mb.gif" alt="Squirtle">
+                </liwater>
+                <liwater>
+                    Wartortle
+                    <img src="https://66.media.tumblr.com/tumblr_ma4fusgAB01rfjowdo1_500.gif" alt=" Wartortle">
+                </liwater>
+                <liwater>
+                    Blastoise
+                    <img src="https://66.media.tumblr.com/tumblr_ma4fvrTeAk1rfjowdo1_500.gif" alt="Blastoise">
+                </liwater>
+                <libug>
+                    Caterpie
+                    <img src="https://66.media.tumblr.com/tumblr_ma9fz0Rb0e1rfjowdo1_500.gif" alt="Caterpie">
+                </libug>
+                <libug>
+                    Metapod
+                    <img src="https://66.media.tumblr.com/tumblr_ma9ygmL1WF1rfjowdo1_r2_500.gif" alt="Metapod">
+                </libug>
+                <libug>
+                    Butterfree
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </libug>
+                <libug>
+                    Weedle
+                    <img src="https://66.media.tumblr.com/tumblr_mafen5D2oe1rfjowdo1_r1_500.gif" alt="Butterfree">
+                </libug>
+                <libug>
+                    Kakuna
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </libug>
+                <libug>
+                    Beedrill
+                    <img src="https://66.media.tumblr.com/tumblr_maorbj6OOz1rfjowdo1_500.gif" alt="Butterfree">
+                </libug>
+                <linormal>
+                    Pidgey
+                    <img src="https://66.media.tumblr.com/tumblr_maore5pyvZ1rfjowdo1_500.gif" alt="Butterfree">
+                </linormal>
+                <linormal>
+                    Pidgeotto
+                    <img src="https://66.media.tumblr.com/tumblr_maorewZFZM1rfjowdo1_500.gif" alt="Butterfree">
+                </linormal>
+                <linormal>
+                    Pidgeot
+                    <img src="https://66.media.tumblr.com/tumblr_mb4fvyvP2H1rfjowdo1_500.gif" alt="Butterfree">
+                </linormal>
+                <linormal>
+                    Rattata
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </linormal>
+                <linormal>
+                    Raticate
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </linormal>
+                <linormal>
+                    Spearow
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </linormal>
+                <linormal>
+                    Fearow
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </linormal>
+                <lipoison>
+                    Ekans
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lipoison>
+                <lipoison>
+                    Arbok
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lipoison>
+                <lielectric>
+                    Pikachu
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lielectric>
+                <lielectric>
+                    Raichu
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lielectric>
+                <liground>
+                    Sandshrew
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </liground>
+                <liground>
+                    Sandslash
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </liground>
+                <lipoison>
+                    Nidoran♀
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lipoison>
+                <lipoison>
+                    Nidorina
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lipoison>
+                <lipoison>
+                    Nidoqueen
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lipoison>
+                <lipoison>
+                    Nidoran♂
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lipoison>
+                <lipoison>
+                    Nidorino
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lipoison>
+                <lipoison>
+                    Nidoking
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lipoison>
+                <lifairy>
+                    Clefairy
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lifairy>
+                <lifairy>
+                    Clefable
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lifairy>
+                <lifire>
+                    Vulpix
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lifire>
+                <lifire>
+                    Ninetales
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lifire>
+                <lifairy>
+                    Jigglypuff
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lifairy>
+                <lifairy>
+                    Wigglytuff
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lifairy>
+                <lipoison>
+                    Zubat
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lipoison>
+                <lipoison>
+                    Golbat
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </lipoison>
+                <ligrass>
+                    Oddish
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </ligrass>
+                <ligrass>
+                    Gloom
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </ligrass>
+                <ligrass>
+                    Vileplume
+                    <img src="https://i.gifer.com/origin/4d/4d15eb229e2c8db8dee69efc0d2371e9_w200.gif" alt="Butterfree">
+                </ligrass>
